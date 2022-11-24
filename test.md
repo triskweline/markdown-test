@@ -1,6 +1,5 @@
 ---
-title: Foo
-bar: bam
+@page foo
 ---
 
 # h1
